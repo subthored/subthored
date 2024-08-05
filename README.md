@@ -8,7 +8,7 @@ I have been learning programming for two years. The first year and a half I lear
 
 * 🌍  I'm based in Russia, Abakan
 * ✉️  You can contact me at [subthored@yandex.ru](mailto:subthored@yandex.ru)
-* 🧠  I'm learning SQL and Laravel
+* 🧠  I'm learning Laravel
 
 ### Skills
 
