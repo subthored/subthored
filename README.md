@@ -4,7 +4,7 @@ Hi 👋 My name is Eugeny Zhikharev
 Junior PHP Developer
 --------------------
 
-I have been learning programming for two years. The first year and a half I learnt python on my own. For the last months I have been studying at Hexlet on the PHP-developer course. In the whole course, I have Laravel left to learn
+I have been learning programming for two and a half years. The first year and a half I learnt python on my own. In last nine months I have been studying at Hexlet on the PHP-developer course and successfully finished it.
 
 * 🌍  I'm based in Russia, Abakan
 * ✉️  You can contact me at [subthored@yandex.ru](mailto:subthored@yandex.ru)
